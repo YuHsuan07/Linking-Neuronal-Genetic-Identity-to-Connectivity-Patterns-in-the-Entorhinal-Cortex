@@ -16,7 +16,6 @@ This project investigates the relationship between neuronal spatial organisation
 - Models: Logistic Regression, k-Nearest Neighbours, and Random Forest were used to predict either MERFISH supertypes or SNR projection clusters from spatial coordinates.
 - Cross-dataset analysis: A model trained on SNR projection clusters was applied to MERFISH spatial coordinates to infer projection patterns across transcriptomic cell types.
 - Evaluation metrics: Balanced Accuracy, Macro F1-score, and Top-5 Accuracy (MERFISH) were used due to class imbalance. Recall was additionally reported for SNR classification.
-- SHAP and permutation importance
 
 
 
